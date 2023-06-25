@@ -3,4 +3,4 @@ Welcome to GIT
 GIT knowledge
 GIT 01
 Working for Salesforce
-Knowing the salesforce
+Knowing the salesforce better
